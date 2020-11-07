@@ -1,0 +1,11 @@
+.form-box
+{
+    border:2px solid rgb(39, 153, 214);
+}
+small{
+    color:rgb(245, 18, 18);
+}
+input.ng-touched.ng-invalid
+{
+    border-color: rgb(247, 14, 14);
+}
